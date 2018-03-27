@@ -1,4 +1,4 @@
-# my-first-probot
+# test-probot
 
 > a GitHub App built with [probot](https://github.com/probot/probot) that 
 
